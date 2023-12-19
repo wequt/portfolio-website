@@ -1,0 +1,364 @@
+.html, body {
+height: 100%;
+background-size: 100%;
+margin-left: auto;
+margin-right: auto;
+}
+
+.div {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.rezjume {
+    background-color: #ffffff;
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .num-1-jekran {
+    margin-left: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .flex-wrapper-six {
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 23px;
+    width: 1200px;
+  }
+  .a-vybojschik {
+    color: var(--h11);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.33px;
+    font-family: var(--logo-family);
+    font-size: var(--logo-size);
+    font-weight: var(--logo-weight);
+    line-height: var(--logo-line-height);
+  }
+  .frame-6 {
+    display: flex;
+    align-items: flex-start;
+  }
+  .obo-mne {
+    color: var(--h22);
+    font-family: var(--text1-family);
+    font-size: var(--text1-size);
+    font-weight: var(--text1-weight);
+    line-height: var(--text1-line-height);
+  }
+  .obo-mne:not(:last-of-type) {
+    margin-right: 40px;
+  }
+  .flex-wrapper-seven {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    height: 668px;
+    width: 1320px;
+  }
+  .tekstknopka {
+    margin-top: 226px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .zagolovki {
+    margin-bottom: 14px;
+    padding: 0 0 19.19px;
+    position: relative;
+  }
+  .ja-nachinajuschij-specalist-po-sozdaniju-sajto {
+    height: 132px;
+    width: 516px;
+    color: var(--h11);
+    display: flex;
+    position: relative;
+    font-family: var(--h1-family);
+    font-size: var(--h1-size);
+    font-weight: var(--h1-weight);
+    line-height: var(--h1-line-height);
+  }
+  .esli-ponravitsja-nachnem-rabotat {
+    height: 38.19px;
+    width: 327px;
+    color: var(--h22);
+    display: flex;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    font-family: var(--h2-family);
+    font-size: var(--h2-size);
+    font-weight: var(--h2-weight);
+    line-height: var(--h2-line-height);
+  }
+  .rectangle-15 {
+    width: 668px;
+    height: 668px;
+  }
+  .num-2-jekran {
+    background-color: var(--fon);
+    margin-bottom: 53px;
+    padding: 80px 120px 125px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .kartochka {
+    background-color: rgba(255, 255, 255, 1);
+    margin-top: 88px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .kartochka:not(:last-of-type) {
+    margin-right: 24px;
+  }
+  .rectangle-6 {
+    width: 324px;
+    height: 324px;
+    margin-bottom: 30px;
+  }
+  .tilda {
+    font-family: "Rubik";
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 26px;
+    color: var(--h11);
+    margin-top: 6px;
+    margin-right: 205px;
+  }
+  .malen-kaja-knopka {
+    background-color: rgba(60, 102, 220, 1);
+    padding: 35px 20px;
+    display: flex;
+    align-items: center;
+  }
+  .arrow-2 {
+    width: 30px;
+  }
+  .flex-wrapper-two {
+    margin-right: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .portfolio {
+    height: 10px;
+    width: 200px;
+    color: var(--h11);
+    display: flex;
+    margin-bottom: 40px;
+    font-family: var(--h1-family);
+    font-size: var(--h1-size);
+    font-weight: var(--h1-weight);
+    line-height: var(--h1-line-height);
+  }
+  .kartochka-two {
+    background-color: rgba(255, 255, 255, 1);
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .sajt-vizitka {
+    font-family: "Rubik";
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 26px;
+    color: var(--h11);
+    margin-top: 6px;
+    margin-right: 111px;
+  }
+  .ikea {
+    font-family: "Rubik";
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 26px;
+    color: var(--h11);
+    margin-top: 6px;
+    margin-right: 206px;
+  }
+  .num-3-jekran {
+    margin-bottom: 37.12px;
+    margin-left: 507px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .tekst {
+    margin-bottom: 34px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .obsudim-vash-proekt {
+    height: 53px;
+    width: 426px;
+    color: var(--h11);
+    display: flex;
+    font-family: var(--h1-family);
+    font-size: var(--h1-size);
+    font-weight: var(--h1-weight);
+    line-height: var(--h1-line-height);
+  }
+  .zapolnite-formu {
+    height: 32px;
+    width: 155px;
+    color: var(--h22);
+    display: flex;
+    font-family: var(--h2-family);
+    font-size: var(--h2-size);
+    font-weight: var(--h2-weight);
+    line-height: var(--h2-line-height);
+  }
+  .forma {
+    padding: 0 30.85px 10.88px 30.84px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .input {
+    margin-bottom: 15px;
+    height: 23px;
+    width: 268px;
+  }
+  
+  .futer {
+    background-color: var(--fon);
+    padding: 41px 43px 41px 120px;
+    display: flex;
+    align-items: center;
+    background-size: 100%;
+  }
+  .vybojschik {
+    max-width: 120px;
+    color: var(--h22);
+    margin-right: 848px;
+    font-family: var(--text1-family);
+    font-size: var(--text1-size);
+    font-weight: var(--text1-weight);
+    line-height: var(--text1-line-height);
+  }
+  .flex-wrapper-one {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .my-na-svjazi-s-vami {
+    color: var(--h22);
+    margin-bottom: 8px;
+    font-family: var(--text1-family);
+    font-size: var(--text1-size);
+    font-weight: var(--text1-weight);
+    line-height: var(--text1-line-height);
+  }
+  .num-7-351-724-50-24 {
+    width: 244px;
+    font-family: "Rubik";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    color: var(--h22);
+    text-decoration: underline;
+  }
+
+  .button {
+    background-color: rgba(60, 102, 220, 1);
+    padding: 20.66px 51px 20.67px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 22px;
+    width: 300px;
+  }
+
+  .button1 {
+    background-color: rgba(60, 102, 220, 1);
+    padding: 20.66px 51px 20.67px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 22px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .obsudit-proekt {
+    font-family: "Rubik";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    color: rgba(255, 255, 255, 1);
+  }
+
+  .input {
+    padding: 21px 24px;
+    display: flex;
+    align-items: center;
+    border: 1px solid var(--h22);
+  }
+  .name {
+    width: 244px;
+    font-family: "Rubik";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    color: var(--h3);
+  }
+
+
+  .e-mail {
+    width: 244px;
+    font-family: "Rubik";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    color: var(--h3);
+  }
+
+  .tel {
+    width: 244px;
+    font-family: "Rubik";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    color: var(--h3);
+  }
+
+:root {
+
+    --fon: rgba(186, 206, 235, 1);
+    --h11: rgba(0, 0, 0, 1);
+    --h22: rgba(68, 68, 68, 1);
+    --h3: rgba(144, 144, 144, 1);
+  
+    --h1-family: "Rubik";
+    --h1-size: 40px;
+    --h1-weight: 400;
+    --h1-line-height: 48px;
+  
+    --h2-family: "Rubik";
+    --h2-size: 18px;
+    --h2-weight: 400;
+    --h2-line-height: 25px;
+
+    --logo-family: "Rubik";
+    --logo-size: 17px;
+    --logo-weight: 600;
+    --logo-line-height: 23px;
+  
+    --text1-family: "Rubik";
+    --text1-size: 14px;
+    --text1-weight: 400;
+    --text1-line-height: 20px;
+  }
